@@ -15,5 +15,6 @@ Project Specifications
 Languages: HTML5, CSS3, JQuery
 
 Plans for Version 2:
-    - Backend will be developed to store cards
-    - Deck-holder to create different decks by category 
+    
+    Backend will be developed to store cards
+    Deck-holder to create different decks by category 
